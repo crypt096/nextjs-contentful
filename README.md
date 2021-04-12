@@ -8,6 +8,8 @@ To use the starter project, run the following in a terminal:
 npx create-next-app [your-site-name] -e https://github.com/iamshaunjp/next-contentful/tree/lesson-1-starter-site
 ```
 
+### Live preview
+
 ```Live preview
 https://nextjs-contentful-virid.vercel.app/
 ```
